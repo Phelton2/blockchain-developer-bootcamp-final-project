@@ -5,7 +5,7 @@ body {
   
   .topnav {
     overflow: hidden;
-    background-color: #333;
+    background-color: rgba(143, 81, 0, 0.562);
   }
   
   .topnav a {
@@ -18,13 +18,13 @@ body {
   }
   
   .topnav a:hover {
-    background-color: #ddd;
+    background-color: rgb(241, 199, 136);
     color: black;
   }
   
   .topnav a.active {
-    background-color: #04AA6D;
-    color: white;
+    background-color:rgba(80, 49, 0, 0.568);
+    color: rgba(53, 24, 0, 0.74);
   }
   
 .center {
@@ -32,4 +32,11 @@ body {
     margin-left: auto;
     margin-right: auto;
     width: 95%;
+  }
+  .metamask {
+    border-radius: 25px;
+  }
+  
+  .book {
+      border-radius: 25px;
   }
