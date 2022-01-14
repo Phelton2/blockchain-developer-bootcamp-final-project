@@ -15,7 +15,7 @@ First connect your metamask to the website via the "Connect to metamask" button(
 
 https://petitsrentals.netlify.app/
 
-## Dependencies\
+##  Install Dependencies
 - Run ```npm```
 
 ## Truffle test instructions
