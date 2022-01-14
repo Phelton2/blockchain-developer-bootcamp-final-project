@@ -16,13 +16,13 @@ First connect your metamask to the website via the "Connect to metamask" button(
 https://petitsrentals.netlify.app/
 
 ## Truffle test instructions
-## ```1. Start the test network```
+## 1. Start the test network
 - Open gnache gui or cli
 - Make sure the port is ```7545```
 
-## ```2. Compile the Contract```
+## 2. Compile the Contract
 - use the command ```truffle migrate --reset```
-## ```3. Run the tests```
+## 3. Run the tests
 - use the command ```truffle test```
 
 # Warning
