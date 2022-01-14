@@ -15,6 +15,9 @@ First connect your metamask to the website via the "Connect to metamask" button(
 
 https://petitsrentals.netlify.app/
 
+## Dependencies\
+- Run ```npm```
+
 ## Truffle test instructions
 ## 1. Start the test network
 - Open gnache gui or cli
@@ -23,8 +26,8 @@ https://petitsrentals.netlify.app/
 ## 2. Compile the Contract
 - use the command ```truffle migrate --reset```
 ## 3. Run the tests
-- use the command ```truffle test```
+- Use the command ```truffle test```
 
-# Warning
+## Warning
 Please not not complete the paypal transaction it is not a simulation it deduct the money from your paypal account
 
