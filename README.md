@@ -4,6 +4,13 @@
 
 Petit's Rentals: A online booking site to simulate paying for a nightly room and getting it approved.There are two methods of paying (Paypal, Metamask).
 
+## Directory Structure
+- ```build``` Contains json files
+- ```contracts``` Contains my smart contracts
+- ```migrations``` They are my migration files
+- ```node_modules``` They are just dependencies
+- ```tests``` They contains my smart contract tests
+
 ### Instructions (Metamask)
 
 First connect your metamask to the website via the "Connect to metamask" button(the rinkeby test network is used for the transaction). Then you may press the "Book now" button it should take between 5-15seconds to complete. Afterward the site will alert you that the booking was made
