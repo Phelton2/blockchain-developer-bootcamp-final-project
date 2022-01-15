@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: GPL-3.0
-* @author: Phelton Petit-Frere
+//* @author: Phelton Petit-Frere
 pragma solidity 0.8.11;
 
 import '@openzeppelin/contracts/security/ReentrancyGuard.sol';
@@ -24,7 +24,7 @@ contract Rental is ReentrancyGuard {
     //Connecting the users address to the booking
     mapping (address => Booking) internal bookingDatabase;
 
-    string result="Booking was stored";
+    string private result="Booking was stored";
     /**
      * @dev Paying for the booking
      */
