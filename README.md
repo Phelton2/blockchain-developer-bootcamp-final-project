@@ -9,6 +9,7 @@ Petit's Rentals: A online booking site to simulate paying for a nightly room and
 First connect your metamask to the website via the "Connect to metamask" button(the rinkeby test network is used for the transaction). Then you may press the "Book now" button it should take between 5-15seconds to complete. Afterward the site will alert you that the booking was made
 
 ## Project walk through
+Copy and paste url in broswer 
 file:///C:/Users/BHL%20Maint.%20Manager/Videos/Captures/Petit
 
 
